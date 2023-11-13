@@ -23,7 +23,7 @@ export default function Footer() {
   const classes = useStyles();
   return (
     <footer className={classes.footer}>
-      <Typography variant="body2" gutterBottom>
+      {/* <Typography variant="body2" gutterBottom>
         This Interface is only intended as a developmental tool. For more
         information, visit the sites below:
       </Typography>
@@ -50,7 +50,7 @@ export default function Footer() {
       >
         {" "}
         Github
-      </Button>
+      </Button> */}
     </footer>
   );
 }

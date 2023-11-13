@@ -204,13 +204,14 @@ export const CHAINS: ChainInfo[] =
         },
         {
           id: CHAIN_ID_TERRA,
-          name: "Terra Classic",
-          logo: terraIcon,
+          name: "Alto",
+          logo: '/alto.png',
         },
+      
         {
           id: CHAIN_ID_TERRA2,
-          name: "Terra",
-          logo: terra2Icon,
+          name: "DBAS",
+          logo: '/spesbas.png',
         },
         {
           id: CHAIN_ID_XPLA,
@@ -256,13 +257,14 @@ export const CHAINS: ChainInfo[] =
         },
         {
           id: CHAIN_ID_TERRA,
-          name: "Terra Classic",
-          logo: terraIcon,
+          name: "Alto",
+          logo: '/alto.png',
         },
+      
         {
           id: CHAIN_ID_TERRA2,
-          name: "Terra",
-          logo: terra2Icon,
+          name: "DBAS",
+          logo: '/spesbas.png',
         },
       ];
 export const CHAINS_WITH_NFT_SUPPORT = CHAINS.filter(

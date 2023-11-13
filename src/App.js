@@ -122,7 +122,7 @@ function App() {
               </>
             }
           >
-            Token Bridge
+            SPESBAS TOKEN BRIDGE
           </HeaderText>
         </Container>
       ) : null}
